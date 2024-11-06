@@ -30,9 +30,6 @@ EditorBuildSettings:
     path: Assets/Scenes/level_seven.unity
     guid: 0e4d76773b432f3428a074be2fb6d780
   - enabled: 1
-    path: Assets/Scenes/titre.unity
-    guid: eba5c586d7ac54042a7bc73dae4e3ffc
-  - enabled: 1
-    path: Assets/Scenes/main_menu.unity
-    guid: 7f3883688f7915e4fb92850f3752bdf8
+    path: Assets/Scenes/etsh_level.unity
+    guid: dc0565dcfc8ad9649bb9d936c7999342
   m_configObjects: {}
