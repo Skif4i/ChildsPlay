@@ -1288,7 +1288,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.08852084, y: 0.51529634}
   m_AnchorMax: {x: 0.40100002, y: 0.9841852}
-  m_AnchoredPosition: {x: -22.999939, y: -46}
+  m_AnchoredPosition: {x: -22.99997, y: -46}
   m_SizeDelta: {x: -252.5708, y: -242.5038}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!82 &1741213398
@@ -1684,9 +1684,9 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 86175f4cd96df834fab1e9c15835e767, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.169
+  m_Volume: 0.033
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
