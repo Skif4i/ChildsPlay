@@ -1292,8 +1292,8 @@ MonoBehaviour:
   objectToHide: {fileID: 0}
   objectToReveal: {fileID: 1456589199}
   audioSource: {fileID: 564223062}
-  nextSceneName: Menu
-  enableSceneTransition: 0
+  nextSceneName: Menu2
+  enableSceneTransition: 1
 --- !u!1 &564223061
 GameObject:
   m_ObjectHideFlags: 0
